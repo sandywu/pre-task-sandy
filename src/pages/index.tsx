@@ -94,7 +94,7 @@ const data = [
   {
     name: 'Olivia Clark',
     age: 22,
-    address: '246 Cherry St',
+    address: '2462 Cherry St ',
     occupation: 'Lawyer',
   },
   {
